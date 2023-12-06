@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - Lava
+  - Moon
+  - Feet
+  - Cloud1
+  - Cloud2
+  - BGMusic
+  - WolfTransform
+  - Jump
+  - WolfAttack1
+  - WolfJump
+  - MoonHowl
+  - MoonCollect
+  - Hurt
+  - WolfHurt
+  - SkeletonHurt
+  - SkeletonDeath
+  - SkeletonPunch
+  - WeakSpot
+  - Arrow
+  - ArchLoading
+  - ArrowSound
+  - PlayerTransform
+  - LavaDeath
+  - DeathMusic
+  - LavaDeathWolf
+  - HealthPoints
+  - ScoreText
+  - LifeCountText
+  - Shield
+  - SkeletonBounce
+  - PauseText
+  - SoundButtonText
+  - MouseClick
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Ground
+  - CameraCollider
+  - Lava
+  - Enemy
+  - EnemyArrow
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4079420661
+    locked: 0
+  - name: Midground
+    uniqueID: 3613547963
+    locked: 0
+  - name: Foreground
+    uniqueID: 3923731841
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

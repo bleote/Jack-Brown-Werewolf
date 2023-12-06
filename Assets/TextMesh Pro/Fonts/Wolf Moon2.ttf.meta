@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5433b7caec4b27e42a706e07b9d5e9f2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Wolf Moon
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: dab7af164260db546a2b7d6b4e8aed1c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
